@@ -663,8 +663,10 @@ body > footer .copyrights {
   float: left;
   z-index: 1;
   text-align: center;
-  text-shadow: 0 0 0.2em rgb(218, 133, 7), 0 0 0.2em rgb(212, 83, 8),
-  0 0 0.2em rgb(189, 40, 3) ;
+  text-shadow: 0 0 0.2em rgb(8, 8, 8), 0 0 0.2em rgb(51, 50, 50),
+  0 0 0.2em rgb(75, 73, 72) ;
+  /* text-shadow: 0 0 0.2em rgb(218, 133, 7), 0 0 0.2em rgb(212, 83, 8),
+  0 0 0.2em rgb(189, 40, 3) ; */
 }
 
 .site-title {
@@ -840,8 +842,10 @@ body > footer .copyrights {
 .custom-page-content .page-header h2 {
   font-size: 44px;
   margin: 0;
-  text-shadow: 0 0 0.2em rgb(218, 133, 7), 0 0 0.2em rgb(212, 83, 8),
-  0 0 0.2em rgb(189, 40, 3) ;
+  text-shadow: 0 0 0.2em rgb(8, 8, 8), 0 0 0.2em rgb(51, 50, 50),
+  0 0 0.2em rgb(75, 73, 72) ;
+  /* text-shadow: 0 0 0.2em rgb(218, 133, 7), 0 0 0.2em rgb(212, 83, 8),
+  0 0 0.2em rgb(189, 40, 3) ; */
 }
 
 .custom-page-content .page-header.color-1 {
@@ -928,16 +932,20 @@ body > footer .copyrights {
   font-size: 54px;
   font-weight: 700;
   margin: 30px 0 0;
-  text-shadow: 0 0 0.2em rgb(218, 133, 7), 0 0 0.2em rgb(212, 83, 8),
-  0 0 0.2em rgb(189, 40, 3) ;
+  text-shadow: 0 0 0.2em rgb(8, 8, 8), 0 0 0.2em rgb(51, 50, 50),
+  0 0 0.2em rgb(75, 73, 72) ;
+  /* text-shadow: 0 0 0.2em rgb(218, 133, 7), 0 0 0.2em rgb(212, 83, 8),
+  0 0 0.2em rgb(189, 40, 3) ; */
 }
 
 .start-page-content .page-header .title-block .sp-subtitle {
   color: #fff;
   font-size: 18px;
   margin: 0;
-  text-shadow: 0 0 0.2em rgb(218, 133, 7), 0 0 0.2em rgb(212, 83, 8),
-  0 0 0.2em rgb(189, 40, 3) ;
+  text-shadow: 0 0 0.2em rgb(8, 8, 8), 0 0 0.2em rgb(51, 50, 50),
+  0 0 0.2em rgb(75, 73, 72) ;
+  /* text-shadow: 0 0 0.2em rgb(218, 133, 7), 0 0 0.2em rgb(212, 83, 8),
+  0 0 0.2em rgb(189, 40, 3) ; */
 }
 
 .start-page-content .social-links {
