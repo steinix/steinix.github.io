@@ -129,6 +129,10 @@ img {
   -ms-interpolation-mode: bicubic;
 }
 
+.clikin {
+  cursor: pointer;
+}
+
 img.rounded-image {
   border-radius: 50%;
   vertical-align: bottom;
@@ -1106,6 +1110,18 @@ body > footer .copyrights {
   margin-bottom: 8px;
   padding-left: 8px;
   border-left: 1px solid #e0e0e0;
+}
+
+.item-description {
+  max-height: 200px; /* Set the maximum height you want to display initially */
+  overflow: hidden;
+}
+
+#expand-link {
+  display: block;
+  margin-top: 10px;
+  color: blue;
+  cursor: pointer;
 }
 
 
